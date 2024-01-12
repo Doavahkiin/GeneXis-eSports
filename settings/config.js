@@ -2,7 +2,7 @@ require("dotenv").config()
 
 module.exports = {
   TOKEN: process.env.
-    TOKEN || "ODkzMDA0MDM3MDg2MTIxOTg0.GHp-0E.84HdwB9T97_D8lqIxnguyLP9eHAZtukUUHMags",
+    TOKEN || "ODkODkzMDA0MDM3MDg2MTIxOTg0zMDA0MDM3MDg2MTIxOTg0.GYcssf.lrvtSeMBLpTRB-QfLur-ffCW0fs9b8G0Jd6sDg",
 
   PREFIX: process.env.PREFIX || ">",
 
