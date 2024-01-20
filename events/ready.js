@@ -6,7 +6,7 @@ const chalk = require('chalk');
 const simplydjs = require("simply-djs");
 
 let statuses = [
-  ".help | GeneXis eSports",
+  ".help | Zephyr",
 ]
 let e = statuses.length
 
@@ -14,7 +14,7 @@ function status() {
   i = Math.floor(Math.random() * (e))
   client.user.setActivity(statuses[i],
     {
-      type: "WATCHING",
+      type: "PLAYING",
     });
 }
 
