@@ -2,9 +2,9 @@ require("dotenv").config()
 
 module.exports = {
   TOKEN: process.env.
-    TOKEN || "ODkODkzMDA0MDM3MDg2MTIxOTg0zMDA0MDM3MDg2MTIxOTg0.GYcssf.lrvtSeMBLpTRB-QfLur-ffCW0fs9b8G0Jd6sDg",
+    TOKEN || "ODkzMDA0MDM3MDg2MTIxOTg0.GS2bdp.2twaciUl3LsuPBh3vpar2aZN_g36m4ftNXgx_c",
 
-  PREFIX: process.env.PREFIX || ">",
+  PREFIX: process.env.PREFIX || ".",
 
 
   embed: {
@@ -28,7 +28,7 @@ module.exports = {
     bot: "<:bot:1176884112808755251>",
   },
   // others
-  mongodb: process.env.mongodb || "mongodb+srv://Zephyr:7826@cluster0.h9vcc.mongodb.net/?retryWrites=true&w=majority",
+  mongodb: process.env.mongodb || "mongodb+srv://Zephyr:7826@cluster0.xboa1tq.mongodb.net/?retryWrites=true&w=majority",
 
   filters: {
     clear: "dynaudnorm=f=200",
