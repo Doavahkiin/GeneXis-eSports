@@ -13,6 +13,6 @@ const server = http.createServer((req, res) => {
     </html>`);
 });
 
-server.listen(3000, () => {
+server.listen(8080, () => {
   console.log('Server Online because of Axo Coder ✅!!');
 });
