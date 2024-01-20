@@ -27,7 +27,7 @@ module.exports = {
       .addFields(
         {
           name: "Click Blue Text Below :",
-          value: `╰-𒆕 [Contact DEV for support](https://discord.gg/codersplanet)`
+          value: `╰-𒆕 [Contact DEV for support](https://discord.gg/Ktep2Amy7d)`
         }
       )
 
